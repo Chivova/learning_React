@@ -1,4 +1,3 @@
-# react-21-22
 
 - [Настраиваем линтинг перед коммитом](https://github.com/goitacademy/react-lint-config)
 - [Абсолютные импорты](https://create-react-app.dev/docs/importing-a-component/#absolute-imports)
